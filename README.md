@@ -18,6 +18,8 @@ IDE:Eclipse
 	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
 	version="3.0">
 ```
+右击项目找到Maven->Update Project,点击更新。
+
 确保jdbc.properties里面的用户名，密码改成自己的,然后建表插入数据。
 
 ```
